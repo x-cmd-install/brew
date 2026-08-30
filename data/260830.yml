@@ -1,0 +1,64 @@
+about:
+  description: 🍺 The Package Manager for Everywhere
+  license: BSD-2-Clause
+  homepage: https://brew.sh
+  head: b25bda0
+  archived: false
+  latestVersion: 6.0.20
+  collectedAt: 2026-08-30T05:56:31Z
+timeline:
+  created: 2016-03-06
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-27
+popularity:
+  star: 49318
+  watcher: 738
+  fork: 11306
+  release: 511
+  contributor: 1152
+  pullRequest: 2137
+  issue: 5288
+language:
+  Ruby: 9913269
+  Shell: 421758
+  Roff: 150237
+  HTML: 35039
+  Rich Text Format: 5305
+  Dockerfile: 4779
+  Python: 1551
+  CMake: 840
+  PostScript: 485
+totalLine: 10533263
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 7
+    mergedPR: 234
+    openPR: 10
+    closedIssue: 41
+    openIssue: 0
+    commit: 455
+  last90d:
+    since: 2026-06-01
+    release: 22
+    mergedPR: 898
+    openPR: 11
+    closedIssue: 186
+    openIssue: 0
+    commit: 2150
+  last180d:
+    since: 2026-03-03
+    release: 37
+    mergedPR: 1546
+    openPR: 11
+    closedIssue: 294
+    openIssue: 0
+    commit: 3877
+  last360d:
+    since: 2025-09-04
+    release: 65
+    mergedPR: 2271
+    openPR: 11
+    closedIssue: 469
+    openIssue: 0
+    commit: 5900
