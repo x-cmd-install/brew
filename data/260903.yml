@@ -1,26 +1,28 @@
 about:
-  description: 🍺 The Package Manager for Everywhere
+  description:
+  |
+    🍺 The Package Manager for Everywhere
   license: BSD-2-Clause
   homepage: https://brew.sh
-  head: a8820d0
+  head: 2316567
   archived: false
   latestVersion: 6.0.21
-  collectedAt: 2026-09-03T05:13:17Z
+  collectedAt: 2026-09-03T22:38:23Z
 timeline:
   created: 2016-03-06
-  lastCommit: 2026-09-02
+  lastCommit: 2026-09-03
   lastRelease: 2026-09-01
 popularity:
-  star: 49366
+  star: 49378
   watcher: 740
   fork: 11310
   release: 512
   contributor: 1154
-  pullRequest: 2147
-  issue: 5293
+  pullRequest: 2142
+  issue: 5294
 language:
-  Ruby: 10010879
-  Shell: 423008
+  Ruby: 10042287
+  Shell: 423146
   Roff: 150691
   HTML: 35039
   Rich Text Format: 5305
@@ -28,37 +30,37 @@ language:
   Python: 1551
   CMake: 840
   PostScript: 485
-totalLine: 10632577
+totalBytes: 10664123
 recent:
   last30d:
     since: 2026-08-04
     release: 6
-    mergedPR: 228
-    openPR: 16
-    closedIssue: 40
+    mergedPR: 242
+    openPR: 11
+    closedIssue: 41
     openIssue: 0
-    commit: 520
+    commit: 557
   last90d:
     since: 2026-06-05
     release: 22
-    mergedPR: 889
-    openPR: 17
-    closedIssue: 188
+    mergedPR: 904
+    openPR: 11
+    closedIssue: 189
     openIssue: 0
-    commit: 2215
+    commit: 2253
   last180d:
     since: 2026-03-07
     release: 38
-    mergedPR: 1559
-    openPR: 17
-    closedIssue: 298
+    mergedPR: 1574
+    openPR: 11
+    closedIssue: 299
     openIssue: 0
-    commit: 3942
+    commit: 3980
   last360d:
     since: 2025-09-08
     release: 66
-    mergedPR: 2285
-    openPR: 17
-    closedIssue: 472
+    mergedPR: 2300
+    openPR: 11
+    closedIssue: 473
     openIssue: 0
-    commit: 5965
+    commit: 6003
