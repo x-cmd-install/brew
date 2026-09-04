@@ -7,7 +7,7 @@ about:
   head: 1220cd0
   archived: false
   latestVersion: 6.0.21
-  collectedAt: 2026-09-04T20:18:16Z
+  collectedAt: 2026-09-04T20:26:18Z
 timeline:
   created: 2016-03-06
   lastCommit: 2026-09-04
@@ -89,7 +89,7 @@ total:
   commit: 52323
 ---
 path: /home/runner/.x-repo/github.com/Homebrew/brew
-collectedAt: 2026-09-04T20:18:25Z
+collectedAt: 2026-09-04T20:26:26Z
 loc:
   Ruby:
     code: 261231
