@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 147108167,
       "digest": "sha256:9d15f67a9478019754efd9c62ef206a6b802caad8be321db553baabd3394454d",
-      "download_count": 48434,
+      "download_count": 50464,
       "created_at": "2026-09-05T07:53:58Z",
       "updated_at": "2026-09-05T07:54:03Z",
       "browser_download_url": "https://github.com/Homebrew/brew/releases/download/6.0.22/Homebrew.pkg"
