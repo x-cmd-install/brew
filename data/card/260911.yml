@@ -2,12 +2,12 @@ about:
   description: "🍺 The Package Manager for Everywhere"
   license: BSD-2-Clause
   homepage: https://brew.sh
-  head: 822e3cd
+  head: b48a6f3
   archived: false
   latestVersion: "6.0.22"
   latestRelease: "6.0.22"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T03:59:36Z
+  collectedAt: 2026-09-11T20:38:50Z
 timeline:
   created: 2016-03-06
   lastCommit: 2026-09-11
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-09-05
   lastPrerelease: 
 popularity:
-  star: 49487
+  star: 49490
   watcher: 743
-  fork: 11335
+  fork: 11339
   release: 513
   contributor: 1156
-  pullRequest: 17676
-  issue: 5308
+  pullRequest: 17683
+  issue: 5311
 language:
-  Ruby: 10600772
+  Ruby: 10619745
   Shell: 427194
   Roff: 151009
   HTML: 34040
@@ -32,72 +32,72 @@ language:
   Python: 1551
   CMake: 840
   PostScript: 485
-totalBytes: 11225745
+totalBytes: 11244718
 recent:
   last30d:
     since: 2026-08-12
     release: 5
-    mergedPR: 339
-    openPR: 6
-    closedIssue: 40
-    openIssue: 1
-    commit: 821
+    mergedPR: 348
+    openPR: 4
+    closedIssue: 44
+    openIssue: 0
+    commit: 842
   last60d:
     since: 2026-07-13
     release: 13
-    mergedPR: 669
-    openPR: 6
-    closedIssue: 93
-    openIssue: 1
-    commit: 1634
+    mergedPR: 678
+    openPR: 4
+    closedIssue: 97
+    openIssue: 0
+    commit: 1655
   last90d:
     since: 2026-06-13
     release: 21
-    mergedPR: 936
-    openPR: 6
-    closedIssue: 157
-    openIssue: 1
-    commit: 2352
+    mergedPR: 945
+    openPR: 4
+    closedIssue: 161
+    openIssue: 0
+    commit: 2373
   last180d:
     since: 2026-03-15
     release: 38
-    mergedPR: 1679
-    openPR: 6
-    closedIssue: 305
-    openIssue: 1
-    commit: 4243
+    mergedPR: 1688
+    openPR: 4
+    closedIssue: 309
+    openIssue: 0
+    commit: 4264
   last360d:
     since: 2025-09-16
     release: 65
-    mergedPR: 2399
-    openPR: 6
-    closedIssue: 477
-    openIssue: 1
-    commit: 6249
+    mergedPR: 2408
+    openPR: 4
+    closedIssue: 481
+    openIssue: 0
+    commit: 6270
   last720d:
     since: 2024-09-21
     release: 100
-    mergedPR: 4101
-    openPR: 6
-    closedIssue: 815
-    openIssue: 1
-    commit: 10595
+    mergedPR: 4110
+    openPR: 4
+    closedIssue: 819
+    openIssue: 0
+    commit: 10616
 total:
   release: 513
-  mergedPR: 15533
-  openPR: 6
-  closedIssue: 5307
-  openIssue: 1
-  commit: 52625
+  mergedPR: 15542
+  openPR: 4
+  closedIssue: 5311
+  openIssue: 0
+  commit: 52646
 ---
 path: /home/runner/.x-repo/github.com/Homebrew/brew
-collectedAt: 2026-09-11T03:59:53Z
+collectedAt: 2026-09-11T20:39:07Z
 loc:
   Ruby:
-    code: 271859
-    comments: 31626
-    blanks: 51512
-    files: 2342
+    code: 272760
+    comments: 32268
+    blanks: 51760
+    files: 2351
   Json:
     code: 11732
     comments: 0
@@ -180,8 +180,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 10645
-    blanks: 5691
+    comments: 10648
+    blanks: 5692
     files: 96
   Text:
     code: 0
@@ -189,10 +189,10 @@ loc:
     blanks: 17
     files: 7
 total:
-  code: 297028
-  comments: 43641
-  blanks: 59111
-  files: 2604
+  code: 297929
+  comments: 44286
+  blanks: 59360
+  files: 2613
 ---
 date: "2026-09-07"
 repo:
