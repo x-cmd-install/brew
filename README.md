@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 49,490 · **Forks**: 11,339 · **Open issues**: 5,311 · **Contributors**: 1,156
+- **Stars**: 49,493 · **Forks**: 11,339 · **Open issues**: 5,311 · **Contributors**: 1,156
 
 ## Totals (cumulative)
 
-- **Releases**: 513 · **Merged PRs**: 15542 · **Open PRs**: 4 · **Closed issues**: 5311 · **Open issues**: 0 · **Commits**: 52646
+- **Releases**: 513 · **Merged PRs**: 15542 · **Open PRs**: 5 · **Closed issues**: 5311 · **Open issues**: 0 · **Commits**: 52646
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 5 | 348 | 4 | 44 | 0 | 842 |
-| last60d | 2026-07-13 | 13 | 678 | 4 | 97 | 0 | 1655 |
-| 90d | 2026-06-13 | 21 | 945 | 4 | 161 | 0 | 2373 |
-| last180d | 2026-03-15 | 38 | 1688 | 4 | 309 | 0 | 4264 |
-| 360d | 2025-09-16 | 65 | 2408 | 4 | 481 | 0 | 6270 |
-| last720d | 2024-09-21 | 100 | 4110 | 4 | 819 | 0 | 10616 |
+| 30d | 2026-08-13 | 5 | 342 | 5 | 43 | 0 | 842 |
+| last60d | 2026-07-14 | 12 | 656 | 5 | 93 | 0 | 1655 |
+| 90d | 2026-06-14 | 21 | 941 | 5 | 158 | 0 | 2373 |
+| last180d | 2026-03-16 | 38 | 1683 | 5 | 308 | 0 | 4264 |
+| 360d | 2025-09-17 | 65 | 2401 | 5 | 480 | 0 | 6270 |
+| last720d | 2024-09-22 | 100 | 4107 | 5 | 817 | 0 | 10616 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for brew lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:39:13Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:02:25Z._
