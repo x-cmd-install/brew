@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 147709789,
       "digest": "sha256:c71d94541adad139c16e92c7774e2635e157c6ed60174787398ecd84bbcd82a9",
-      "download_count": 3705,
+      "download_count": 15854,
       "created_at": "2026-09-13T16:25:26Z",
       "updated_at": "2026-09-13T16:25:33Z",
       "browser_download_url": "https://github.com/Homebrew/brew/releases/download/7.0.1/Homebrew.pkg"
@@ -78,15 +78,15 @@
   "body": "<!-- Release notes generated using configuration in .github/release.yml at main -->\r\n\r\n## What's Changed\r\n* Require Xcode 27 only on macOS 27 by @MikeMcQuaid in https://github.com/Homebrew/brew/pull/23957\r\n* Handle obsolete metadata during upgrades by @MikeMcQuaid in https://github.com/Homebrew/brew/pull/23958\r\n\r\n\r\n**Full Changelog**: https://github.com/Homebrew/brew/compare/7.0.0...7.0.1",
   "reactions": {
     "url": "https://api.github.com/repos/Homebrew/brew/releases/387959100/reactions",
-    "total_count": 14,
+    "total_count": 20,
     "+1": 9,
     "-1": 0,
-    "laugh": 0,
-    "hooray": 1,
+    "laugh": 1,
+    "hooray": 2,
     "confused": 0,
-    "heart": 2,
+    "heart": 5,
     "rocket": 2,
-    "eyes": 0
+    "eyes": 1
   },
   "mentions_count": 1
 }
