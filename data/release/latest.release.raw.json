@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/Homebrew/brew/releases/387959100",
-  "assets_url": "https://api.github.com/repos/Homebrew/brew/releases/387959100/assets",
-  "upload_url": "https://uploads.github.com/repos/Homebrew/brew/releases/387959100/assets{?name,label}",
-  "html_url": "https://github.com/Homebrew/brew/releases/tag/7.0.1",
-  "id": 387959100,
+  "url": "https://api.github.com/repos/Homebrew/brew/releases/389314260",
+  "assets_url": "https://api.github.com/repos/Homebrew/brew/releases/389314260/assets",
+  "upload_url": "https://uploads.github.com/repos/Homebrew/brew/releases/389314260/assets{?name,label}",
+  "html_url": "https://github.com/Homebrew/brew/releases/tag/7.0.2",
+  "id": 389314260,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAyxcHc4XH8k8",
-  "tag_name": "7.0.1",
+  "node_id": "RE_kwDOAyxcHc4XNHbU",
+  "tag_name": "7.0.2",
   "target_commitish": "main",
-  "name": "7.0.1",
+  "name": "7.0.2",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-09-13T15:07:18Z",
-  "updated_at": "2026-09-13T16:26:18Z",
-  "published_at": "2026-09-13T16:26:18Z",
+  "created_at": "2026-09-15T16:26:18Z",
+  "updated_at": "2026-09-15T16:44:56Z",
+  "published_at": "2026-09-15T16:44:56Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/Homebrew/brew/releases/assets/561533910",
-      "id": 561533910,
-      "node_id": "RA_kwDOAyxcHc4heFPW",
+      "url": "https://api.github.com/repos/Homebrew/brew/releases/assets/566096444",
+      "id": 566096444,
+      "node_id": "RA_kwDOAyxcHc4hvfI8",
       "name": "Homebrew.pkg",
       "label": "",
       "uploader": {
@@ -65,28 +65,28 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 147709789,
-      "digest": "sha256:c71d94541adad139c16e92c7774e2635e157c6ed60174787398ecd84bbcd82a9",
-      "download_count": 15854,
-      "created_at": "2026-09-13T16:25:26Z",
-      "updated_at": "2026-09-13T16:25:33Z",
-      "browser_download_url": "https://github.com/Homebrew/brew/releases/download/7.0.1/Homebrew.pkg"
+      "size": 147844036,
+      "digest": "sha256:9bc8f8128849a9afb9896992662b3c7df8974388550043c8d2bdb42d681e52a8",
+      "download_count": 5408,
+      "created_at": "2026-09-15T16:44:32Z",
+      "updated_at": "2026-09-15T16:44:38Z",
+      "browser_download_url": "https://github.com/Homebrew/brew/releases/download/7.0.2/Homebrew.pkg"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/Homebrew/brew/tarball/7.0.1",
-  "zipball_url": "https://api.github.com/repos/Homebrew/brew/zipball/7.0.1",
-  "body": "<!-- Release notes generated using configuration in .github/release.yml at main -->\r\n\r\n## What's Changed\r\n* Require Xcode 27 only on macOS 27 by @MikeMcQuaid in https://github.com/Homebrew/brew/pull/23957\r\n* Handle obsolete metadata during upgrades by @MikeMcQuaid in https://github.com/Homebrew/brew/pull/23958\r\n\r\n\r\n**Full Changelog**: https://github.com/Homebrew/brew/compare/7.0.0...7.0.1",
+  "tarball_url": "https://api.github.com/repos/Homebrew/brew/tarball/7.0.2",
+  "zipball_url": "https://api.github.com/repos/Homebrew/brew/zipball/7.0.2",
+  "body": "<!-- Release notes generated using configuration in .github/release.yml at main -->\r\n\r\n## What's Changed\r\n* Change prefix selection documentation and behaviour by @jtbrough in https://github.com/Homebrew/brew/pull/23959\r\n* Fix typos by @aguashui in https://github.com/Homebrew/brew/pull/23961\r\n* Update Safari user agent to 27.0 by @samford in https://github.com/Homebrew/brew/pull/23964\r\n* Fix shorter-prefix Perl bottle relocation by @MikeMcQuaid in https://github.com/Homebrew/brew/pull/23962\r\n* Populate description caches only on search by @p-linnane in https://github.com/Homebrew/brew/pull/23965\r\n* shims/super/cc: allow paths under HOMEBREW_FORMULA_BUILDPATH by @woodruffw in https://github.com/Homebrew/brew/pull/23971\r\n* Verify only trusted files when tapping by @p-linnane in https://github.com/Homebrew/brew/pull/23972\r\n* Type AbstractSubcommand#args as CLI::Args by @dduugg in https://github.com/Homebrew/brew/pull/23968\r\n* cleanup: drop an unreachable bottle-version branch by @rawsun007 in https://github.com/Homebrew/brew/pull/23975\r\n* info: don't over-flag missing deps by @HaraldNordgren in https://github.com/Homebrew/brew/pull/23960\r\n* Bump portable-ruby to 4.0.7 by @brew-commit-app[bot] in https://github.com/Homebrew/brew/pull/23974\r\n* Avoid sandbox profile and payload file races by @MikeMcQuaid in https://github.com/Homebrew/brew/pull/23976\r\n* Fix Sorbet LSP crash from two config dirs by @HaraldNordgren in https://github.com/Homebrew/brew/pull/23980\r\n* utils/popen: redirect stdin to /dev/null by default on popen_read by @cho-m in https://github.com/Homebrew/brew/pull/23978\r\n\r\n## New Contributors\r\n* @jtbrough made their first contribution in https://github.com/Homebrew/brew/pull/23959\r\n* @aguashui made their first contribution in https://github.com/Homebrew/brew/pull/23961\r\n\r\n**Full Changelog**: https://github.com/Homebrew/brew/compare/7.0.1...7.0.2",
   "reactions": {
-    "url": "https://api.github.com/repos/Homebrew/brew/releases/387959100/reactions",
-    "total_count": 20,
-    "+1": 9,
+    "url": "https://api.github.com/repos/Homebrew/brew/releases/389314260/reactions",
+    "total_count": 11,
+    "+1": 8,
     "-1": 0,
-    "laugh": 1,
-    "hooray": 2,
+    "laugh": 0,
+    "hooray": 0,
     "confused": 0,
-    "heart": 5,
+    "heart": 1,
     "rocket": 2,
-    "eyes": 1
+    "eyes": 0
   },
-  "mentions_count": 1
+  "mentions_count": 10
 }
