@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 148075766,
       "digest": "sha256:1e9ba33b7ac76bd8bcda43af0dba0e6945f467aa56d412179f828b3cbddf1181",
-      "download_count": 4764,
+      "download_count": 21897,
       "created_at": "2026-09-17T16:22:23Z",
       "updated_at": "2026-09-17T16:22:30Z",
       "browser_download_url": "https://github.com/Homebrew/brew/releases/download/7.0.4/Homebrew.pkg"
@@ -78,13 +78,13 @@
   "body": "<!-- Release notes generated using configuration in .github/release.yml at main -->\r\n\r\n## What's Changed\r\n* formula: skip Java splash screens in macOS tests by @ashr123 in https://github.com/Homebrew/brew/pull/24005\r\n* Add brew advisory-match --formula-list by @p-linnane in https://github.com/Homebrew/brew/pull/24007\r\n* Update Ubuntu release cycle link by @MikeMcQuaid in https://github.com/Homebrew/brew/pull/24012\r\n* shell: emit a PowerShell assignment from export_value by @rawsun007 in https://github.com/Homebrew/brew/pull/24010\r\n* Avoid sudo for user-local cask app groups by @MikeMcQuaid in https://github.com/Homebrew/brew/pull/24011\r\n* Derive service completions from Cellar paths by @p-linnane in https://github.com/Homebrew/brew/pull/24009\r\n* Prefer Homebrew Python for uv tools by @MikeMcQuaid in https://github.com/Homebrew/brew/pull/24014\r\n* contributions: match co-authored commits made under a real name/email by @iMichka in https://github.com/Homebrew/brew/pull/23926\r\n* cask: improve consistency of rename handling by @MikeMcQuaid in https://github.com/Homebrew/brew/pull/24016\r\n* Keep parsed and evaled stdout free of warnings by @MikeMcQuaid in https://github.com/Homebrew/brew/pull/24015\r\n* pkg: run Git as the installation user by @MikeMcQuaid in https://github.com/Homebrew/brew/pull/24019\r\n* github_git_download_strategy: fetch when GitHub API is unavailable by @dawidd6 in https://github.com/Homebrew/brew/pull/24022\r\n\r\n\r\n**Full Changelog**: https://github.com/Homebrew/brew/compare/7.0.3...7.0.4",
   "reactions": {
     "url": "https://api.github.com/repos/Homebrew/brew/releases/390869588/reactions",
-    "total_count": 5,
-    "+1": 2,
+    "total_count": 12,
+    "+1": 6,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 2,
+    "heart": 5,
     "rocket": 1,
     "eyes": 0
   },
