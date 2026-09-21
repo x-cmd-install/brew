@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 148075766,
       "digest": "sha256:1e9ba33b7ac76bd8bcda43af0dba0e6945f467aa56d412179f828b3cbddf1181",
-      "download_count": 21897,
+      "download_count": 28812,
       "created_at": "2026-09-17T16:22:23Z",
       "updated_at": "2026-09-17T16:22:30Z",
       "browser_download_url": "https://github.com/Homebrew/brew/releases/download/7.0.4/Homebrew.pkg"
