@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 148807841,
       "digest": "sha256:29e8a9bd1c665ec0f9c07e6e3f6f9d663a8a5ed1d5575a2ab62c956b2e0c11e0",
-      "download_count": 16446,
+      "download_count": 26955,
       "created_at": "2026-09-21T16:32:42Z",
       "updated_at": "2026-09-21T16:32:48Z",
       "browser_download_url": "https://github.com/Homebrew/brew/releases/download/7.0.6/Homebrew.pkg"
@@ -78,14 +78,14 @@
   "body": "<!-- Release notes generated using configuration in .github/release.yml at main -->\r\n\r\n## What's Changed\r\n* Revert \"Use InfluxDB v3 API for analytics reporting\" by @SMillerDev in https://github.com/Homebrew/brew/pull/24056\r\n* Clear the environment when reopening cask apps by @MikeMcQuaid in https://github.com/Homebrew/brew/pull/24057\r\n\r\n\r\n**Full Changelog**: https://github.com/Homebrew/brew/compare/7.0.5...7.0.6",
   "reactions": {
     "url": "https://api.github.com/repos/Homebrew/brew/releases/393120345/reactions",
-    "total_count": 10,
+    "total_count": 11,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
-    "rocket": 10,
+    "rocket": 11,
     "eyes": 0
   },
   "mentions_count": 2
