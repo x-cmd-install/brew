@@ -14,11 +14,11 @@ x install brew
 
 ## Code insight
 
-Total: **308,349** lines of code across **2496** files in the top 5 languages.
+Total: **308,437** lines of code across **2496** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Ruby | 283,839 | 32,545 | 53,865 | 2374 |
+| Ruby | 283,927 | 32,546 | 53,882 | 2374 |
 | Json | 11,928 | 0 | 2 | 25 |
 | Sh | 4,787 | 719 | 695 | 51 |
 | Yaml | 3,517 | 106 | 388 | 44 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 49,849 · **Forks**: 11,376 · **Open issues**: 5,351 · **Contributors**: 1,164
+- **Stars**: 49,864 · **Forks**: 11,380 · **Open issues**: 5,353 · **Contributors**: 1,164
 
 ## Totals (cumulative)
 
-- **Releases**: 521 · **Merged PRs**: 15682 · **Open PRs**: 7 · **Closed issues**: 5350 · **Open issues**: 1 · **Commits**: 52973
+- **Releases**: 521 · **Merged PRs**: 15688 · **Open PRs**: 5 · **Closed issues**: 5352 · **Open issues**: 1 · **Commits**: 52988
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 10 | 304 | 7 | 57 | 1 | 663 |
-| last60d | 2026-08-02 | 16 | 564 | 7 | 103 | 1 | 1300 |
-| 90d | 2026-07-03 | 24 | 944 | 7 | 153 | 1 | 2286 |
-| last180d | 2026-04-04 | 43 | 1690 | 7 | 329 | 1 | 4171 |
-| 360d | 2025-10-06 | 69 | 2462 | 7 | 503 | 1 | 6345 |
-| last720d | 2024-10-11 | 100 | 4129 | 7 | 832 | 1 | 10638 |
+| 30d | 2026-09-02 | 9 | 302 | 5 | 58 | 1 | 678 |
+| last60d | 2026-08-03 | 16 | 557 | 5 | 101 | 1 | 1315 |
+| 90d | 2026-07-04 | 24 | 938 | 5 | 153 | 1 | 2301 |
+| last180d | 2026-04-05 | 43 | 1686 | 5 | 330 | 1 | 4186 |
+| 360d | 2025-10-07 | 68 | 2467 | 5 | 504 | 1 | 6360 |
+| last720d | 2024-10-12 | 100 | 4132 | 5 | 832 | 1 | 10646 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for brew lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T05:12:02Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:01:01Z._
