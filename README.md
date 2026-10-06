@@ -14,13 +14,13 @@ x install brew
 
 ## Code insight
 
-Total: **309,050** lines of code across **2496** files in the top 5 languages.
+Total: **309,268** lines of code across **2496** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Ruby | 284,540 | 32,572 | 53,993 | 2374 |
+| Ruby | 284,753 | 32,598 | 54,053 | 2374 |
 | Json | 11,928 | 0 | 2 | 25 |
-| Sh | 4,787 | 719 | 695 | 51 |
+| Sh | 4,792 | 719 | 696 | 51 |
 | Yaml | 3,517 | 106 | 388 | 44 |
 | Fish | 2,092 | 57 | 342 | 2 |
 
@@ -42,34 +42,34 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `7.0.7` (2026-09-28)
-- **Last commit**: 2026-10-04
+- **Latest**: `7.0.8` (2026-10-05)
+- **Last commit**: 2026-10-06
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 49,894 · **Forks**: 11,381 · **Open issues**: 5,357 · **Contributors**: 1,165
+- **Stars**: 49,912 · **Forks**: 11,384 · **Open issues**: 5,359 · **Contributors**: 1,165
 
 ## Totals (cumulative)
 
-- **Releases**: 521 · **Merged PRs**: 15700 · **Open PRs**: 4 · **Closed issues**: 5357 · **Open issues**: 0 · **Commits**: 53019
+- **Releases**: 522 · **Merged PRs**: 15707 · **Open PRs**: 7 · **Closed issues**: 5359 · **Open issues**: 0 · **Commits**: 53036
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 9 | 240 | 4 | 57 | 0 | 369 |
-| last60d | 2026-08-06 | 15 | 536 | 4 | 99 | 0 | 1229 |
-| 90d | 2026-07-07 | 22 | 907 | 4 | 149 | 0 | 2114 |
-| last180d | 2026-04-08 | 41 | 1682 | 4 | 334 | 0 | 4051 |
-| 360d | 2025-10-10 | 68 | 2460 | 4 | 507 | 0 | 6288 |
-| last720d | 2024-10-15 | 100 | 4131 | 4 | 834 | 0 | 10646 |
+| 30d | 2026-09-06 | 9 | 225 | 7 | 55 | 0 | 387 |
+| last60d | 2026-08-07 | 16 | 536 | 7 | 98 | 0 | 1247 |
+| 90d | 2026-07-08 | 23 | 907 | 7 | 149 | 0 | 2132 |
+| last180d | 2026-04-09 | 42 | 1677 | 7 | 332 | 0 | 4069 |
+| 360d | 2025-10-11 | 69 | 2462 | 7 | 507 | 0 | 6306 |
+| last720d | 2024-10-16 | 100 | 4134 | 7 | 836 | 0 | 10650 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [Homebrew.pkg](https://github.com/Homebrew/brew/releases/download/7.0.7/Homebrew.pkg) | 142.6 MiB | `other` |
+| [Homebrew.pkg](https://github.com/Homebrew/brew/releases/download/7.0.8/Homebrew.pkg) | 142.2 MiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for brew lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T04:59:46Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T05:47:25Z._
