@@ -14,11 +14,11 @@ x install brew
 
 ## Code insight
 
-Total: **314,020** lines of code across **2504** files in the top 5 languages.
+Total: **314,092** lines of code across **2504** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Ruby | 289,399 | 32,707 | 54,890 | 2382 |
+| Ruby | 289,471 | 32,708 | 54,900 | 2382 |
 | Json | 11,928 | 0 | 2 | 25 |
 | Sh | 4,793 | 720 | 696 | 51 |
 | Yaml | 3,593 | 105 | 394 | 44 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 50,025 · **Forks**: 11,384 · **Open issues**: 5,371 · **Contributors**: 1,165
+- **Stars**: 50,030 · **Forks**: 11,384 · **Open issues**: 5,371 · **Contributors**: 1,165
 
 ## Totals (cumulative)
 
-- **Releases**: 523 · **Merged PRs**: 15776 · **Open PRs**: 4 · **Closed issues**: 5370 · **Open issues**: 1 · **Commits**: 53192
+- **Releases**: 523 · **Merged PRs**: 15780 · **Open PRs**: 9 · **Closed issues**: 5370 · **Open issues**: 1 · **Commits**: 53201
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 7 | 187 | 4 | 43 | 1 | 377 |
-| last60d | 2026-08-17 | 15 | 543 | 4 | 99 | 1 | 1270 |
-| 90d | 2026-07-18 | 21 | 854 | 4 | 145 | 1 | 2010 |
-| last180d | 2026-04-19 | 42 | 1689 | 4 | 332 | 1 | 4133 |
-| 360d | 2025-10-21 | 68 | 2493 | 4 | 504 | 1 | 6404 |
-| last720d | 2024-10-26 | 100 | 4169 | 4 | 839 | 1 | 10711 |
+| 30d | 2026-09-17 | 6 | 176 | 9 | 41 | 1 | 386 |
+| last60d | 2026-08-18 | 14 | 544 | 9 | 99 | 1 | 1279 |
+| 90d | 2026-07-19 | 21 | 818 | 9 | 143 | 1 | 2019 |
+| last180d | 2026-04-20 | 41 | 1690 | 9 | 332 | 1 | 4142 |
+| 360d | 2025-10-22 | 68 | 2495 | 9 | 501 | 1 | 6413 |
+| last720d | 2024-10-27 | 100 | 4173 | 9 | 839 | 1 | 10711 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for brew lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T03:59:40Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T03:50:16Z._
