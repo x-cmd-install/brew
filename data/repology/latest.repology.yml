@@ -1,0 +1,13 @@
+- repo: aur
+  srcname: brew-git
+  binname: brew-git
+  visiblename: brew-git
+  version: 2.7.4.r20233.g23c491e5bc
+  origversion: 2.7.4.r20233.g23c491e5bc-1
+  status: rolling
+  summary: The missing package manager for macOS (or Linux)
+  maintainers:
+    - carlosal1015@aur
+  licenses:
+    - BSD
+    - CCPL
