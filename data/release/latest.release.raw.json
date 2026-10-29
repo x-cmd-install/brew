@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 151797234,
       "digest": "sha256:c780771227420177a6b19bd778e351976c2b5064d114f499ca94c0f01e31e8e8",
-      "download_count": 10255,
+      "download_count": 15418,
       "created_at": "2026-10-26T08:19:44Z",
       "updated_at": "2026-10-26T08:19:50Z",
       "browser_download_url": "https://github.com/Homebrew/brew/releases/download/7.0.11/Homebrew.pkg"
