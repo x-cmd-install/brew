@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 154292112,
       "digest": "sha256:f5dae55ec63149b50f9945fd3431a92e4ebd5614961d88e462563f2a1b7314e1",
-      "download_count": 16390,
+      "download_count": 21668,
       "created_at": "2026-11-09T08:34:11Z",
       "updated_at": "2026-11-09T08:34:19Z",
       "browser_download_url": "https://github.com/Homebrew/brew/releases/download/7.0.13/Homebrew.pkg"
