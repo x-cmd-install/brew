@@ -14,15 +14,15 @@ x install brew
 
 ## Code insight
 
-Total: **343,439** lines of code across **2633** files in the top 5 languages.
+Total: **344,253** lines of code across **2648** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Ruby | 318,432 | 36,877 | 60,446 | 2510 |
+| Ruby | 319,244 | 36,942 | 60,678 | 2525 |
 | Json | 11,928 | 0 | 2 | 25 |
 | Sh | 4,988 | 747 | 709 | 52 |
 | Yaml | 3,644 | 105 | 395 | 44 |
-| Fish | 2,118 | 57 | 344 | 2 |
+| Fish | 2,120 | 57 | 346 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `7.0.13` (2026-11-09)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-16
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 50,337 · **Forks**: 11,425 · **Open issues**: 5,415 · **Contributors**: 1,178
+- **Stars**: 50,345 · **Forks**: 11,423 · **Open issues**: 5,415 · **Contributors**: 1,178
 
 ## Totals (cumulative)
 
-- **Releases**: 527 · **Merged PRs**: 16034 · **Open PRs**: 18 · **Closed issues**: 5414 · **Open issues**: 1 · **Commits**: 53856
+- **Releases**: 527 · **Merged PRs**: 16044 · **Open PRs**: 21 · **Closed issues**: 5414 · **Open issues**: 1 · **Commits**: 53877
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 4 | 249 | 17 | 44 | 1 | 559 |
-| last60d | 2026-09-16 | 11 | 445 | 18 | 88 | 1 | 973 |
-| 90d | 2026-08-17 | 19 | 801 | 18 | 144 | 1 | 1772 |
-| last180d | 2026-05-19 | 40 | 1727 | 18 | 329 | 1 | 4159 |
-| 360d | 2025-11-20 | 67 | 2613 | 18 | 509 | 1 | 6636 |
-| last720d | 2024-11-25 | 100 | 4317 | 18 | 863 | 1 | 11077 |
+| 30d | 2026-10-17 | 4 | 243 | 20 | 42 | 1 | 580 |
+| last60d | 2026-09-17 | 10 | 440 | 21 | 86 | 1 | 994 |
+| 90d | 2026-08-18 | 18 | 808 | 21 | 144 | 1 | 1793 |
+| last180d | 2026-05-20 | 40 | 1725 | 21 | 329 | 1 | 4180 |
+| 360d | 2025-11-21 | 66 | 2617 | 21 | 509 | 1 | 6657 |
+| last720d | 2024-11-26 | 100 | 4320 | 21 | 863 | 1 | 11080 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for brew lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T05:47:20Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T05:47:29Z._
